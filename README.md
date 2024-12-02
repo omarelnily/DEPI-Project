@@ -91,10 +91,8 @@ Refer to the full report for a detailed analysis and additional recommendations.
 
 For any inquiries or further assistance, please reach out:
 
-- **Author**: [Your Name or Organization Name]  
-- **Email**: [your-email@example.com]  
-- **GitHub**: [Your GitHub Profile URL]  
-- **Website**: [Your Website URL]
+- **Author**: Omar Elniy
+- **Email**: omar.elnily@gmail.com
 
 ---
 
